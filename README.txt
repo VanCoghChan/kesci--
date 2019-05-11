@@ -4,3 +4,4 @@ kesci文本情感分类baseline
 运行：
   数据带clean的都可以直接用，直接运行tfidf_MNB即可
   代码简单没有分析和注释，单纯为了水过预选赛
+注：其中比赛的测试集文件一直在变动，使用时要重新替换测试集，链接：https://www.kesci.com/home/competition/5cb80fd312c371002b12355f/content/1
