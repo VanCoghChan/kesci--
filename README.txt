@@ -1,4 +1,4 @@
-kesci文本情感分类baseline
+### kesci文本情感分类baseline
 使用tfidf进行特征提取，多项式贝叶斯分类，没有调参，线下AUC86左右，线上AUC85左右
 调参后效果更好，可以试着使用LR等其他模型
 运行：
